@@ -33,7 +33,7 @@ Now running **[Doneref Studios](https://www.studios.doneref.com/)** out of Turin
 ## What I Do
 
 🎮 Game Design &nbsp;·&nbsp; ⚙️ Systems Design &nbsp;·&nbsp; 🧠 Concept Design
-📖 Narrative Design &nbsp;·&nbsp; 🎬 Creative Direction &nbsp;·&nbsp; 👥 Team Management
+&nbsp;·&nbsp; 📖 Narrative Design &nbsp;·&nbsp; 🎬 Creative Direction &nbsp;·&nbsp; 👥 Team Management
 
 ## Tools & Stack
 
